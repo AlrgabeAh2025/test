@@ -1,9 +1,6 @@
-# Flet app
+# Flet Webcam Camera Capture 
 
-A simple Flet app.
+## you must reload  file py . if you want take capture again
+## 1 capture == 1 reload
 
-To run the app:
 
-```
-flet run [app_directory]
-```
